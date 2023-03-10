@@ -1,0 +1,38 @@
+
+* {
+	font-family: georgia, Courier New, serif;
+color: #006A4E;
+text-align: center;
+}
+
+body{
+width: 960px;
+margin: 0 auto;
+background-color: #D9D6BF
+}
+
+nav{
+	background-color: #DADBDD;
+	padding: 5px;
+	margin: 5px;
+}
+
+section{
+	text-align: left;
+	width: 200px;
+
+}
+
+li{
+	text-align: left;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin: 25px;
+}
+
+main{
+	background-color:#BCC6CC;
+	text-align: center;
+	margin: 10px;
+	padding: 30px;
+}
